@@ -33,7 +33,7 @@ author_profile: true
 <li> <b>From relevance to utility: evidence retrieval with feedback for fact verification</b> [<a href="https://arxiv.org/pdf/2310.11675">PDF</a>][<a href="https://github.com/ict-bigdatalab/FER">Code</a>]<br>
 <ins><b>Hengran Zhang</b></ins>,Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Yixing Fan, Xueqi Cheng
 <br>
-<b> Findings of EMNLP'2023</b> <br>
+<b> Findings of EMNLP 2023</b> <br>
 </li>
 </ol>
 
