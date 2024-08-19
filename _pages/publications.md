@@ -33,7 +33,7 @@ author_profile: true
 <li> <b>From relevance to utility: evidence retrieval with feedback for fact verification</b> [<a href="https://arxiv.org/pdf/2310.11675">PDF</a>][<a href="https://github.com/ict-bigdatalab/FER">Code</a>]<br>
 <ins><b>Hengran Zhang</b></ins>,Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Yixing Fan, Xueqi Cheng
 <br>
-<b> Findings of EMNLP'2023</b> <i>(Short Paper)</i> <br>
+<b> Findings of EMNLP'2023</b> <br>
 </li>
 </ol>
 
@@ -44,7 +44,7 @@ author_profile: true
 
 <li> <b>Cort: A new baseline for comparative opinion classification by dual prompts</b> [<a href="https://aclanthology.org/2022.findings-emnlp.524.pdf">PDF</a>][<a href="https://github.com/cofe-ai/CORT">Code</a>]<br>,
   Yequan Wang, Hengran Zhang, Aixin Sun, Xuying Meng. <br>
-<b>Findings of EMNLP2022</b>, <i>(Full Paper)</i> <br>
+<b>Findings of EMNLP2022</b><br>
 </li>
 
 
