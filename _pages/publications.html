@@ -5,32 +5,49 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+### 2024
 
-{% include base_path %}
+<ol start="4" reversed="reversed">
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<li> <b>Iterative Utility Judgment Framework via LLMs Inspired by Relevance in Philosophy</b> [<a href="https://arxiv.org/abs/2406.11290">PDF</a>]<br>
+<ins><b>Hengran Zhang</b></ins>,Keping Bi, Jiafeng Guo, Xueqi Cheng
+<br>
+<b>Pre-print</b>
+</li>
+</ol>
+
+<ol start="3" reversed="reversed">
+
+<li> <b>Are Large Language Models Good at Utility Judgments?</b> [<a href="https://dl.acm.org/doi/pdf/10.1145/3626772.3657784">PDF</a>]<br>
+<ins><b>Hengran Zhang</b></ins>,Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Yixing Fan, Xueqi Cheng
+<br>
+<b>SIGIR 2024</b>
+</li>
+</ol>
+
+
+### 2023
+
+<ol start="2" reversed="reversed">
+
+<li> <b>From relevance to utility: evidence retrieval with feedback for fact verification</b> [<a href="https://arxiv.org/pdf/2310.11675">PDF</a>][<a href="https://github.com/ict-bigdatalab/FER">Code</a>]<br>
+<ins><b>Hengran Zhang</b></ins>,Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Yixing Fan, Xueqi Cheng
+<br>
+<b> Findings of EMNLP'2023</b> <i>(Short Paper)</i> <br>
+</li>
+</ol>
+
+
+### 2022
+
+<ol start="1" reversed="reversed">
+
+<li> <b>Cort: A new baseline for comparative opinion classification by dual prompts</b> [<a href="https://aclanthology.org/2022.findings-emnlp.524.pdfPDF</a>][<a href="https://github.com/cofe-ai/CORT">Code</a>]<br>,
+  Yequan Wang, Hengran Zhang, Aixin Sun, Xuying Meng. <br>
+<b>Findings of EMNLP2022</b>, <i>(Full Paper)</i> <br>
+</li>
+
+
 
 
 
