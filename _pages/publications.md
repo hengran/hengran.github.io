@@ -9,7 +9,7 @@ author_profile: true
 
 <ol start="4" reversed="reversed">
 
-<li> <b>Iterative Utility Judgment Framework via LLMs Inspired by Relevance in Philosophy</b> [<a href="https://arxiv.org/abs/2406.11290">PDF</a>]<br>
+<li> <b>Iterative Utility Judgment Framework via LLMs Inspired by Relevance in Philosophy</b> [<a href="https://arxiv.org/abs/2406.11290">PDF</a>][<a href="https://anonymous.4open.science/r/ITEM-B486/README.md">Code</a>]<br>
 <ins><b>Hengran Zhang</b></ins>,Keping Bi, Jiafeng Guo, Xueqi Cheng
 <br>
 <b>Pre-print</b>
@@ -18,7 +18,7 @@ author_profile: true
 
 <ol start="3" reversed="reversed">
 
-<li> <b>Are Large Language Models Good at Utility Judgments?</b> [<a href="https://dl.acm.org/doi/pdf/10.1145/3626772.3657784">PDF</a>]<br>
+<li> <b>Are Large Language Models Good at Utility Judgments?</b> [<a href="https://dl.acm.org/doi/pdf/10.1145/3626772.3657784">PDF</a>][<a href="https://github.com/ict-bigdatalab/utility_judgments">Code</a>]<br>
 <ins><b>Hengran Zhang</b></ins>,Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Yixing Fan, Xueqi Cheng
 <br>
 <b>SIGIR 2024</b>
