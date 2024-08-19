@@ -42,7 +42,7 @@ author_profile: true
 
 <ol start="1" reversed="reversed">
 
-<li> <b>Cort: A new baseline for comparative opinion classification by dual prompts</b> [<a href="https://aclanthology.org/2022.findings-emnlp.524.pdfPDF</a>][<a href="https://github.com/cofe-ai/CORT">Code</a>]<br>,
+<li> <b>Cort: A new baseline for comparative opinion classification by dual prompts</b> [<a href="https://aclanthology.org/2022.findings-emnlp.524.pdf">PDF</a>][<a href="https://github.com/cofe-ai/CORT">Code</a>]<br>,
   Yequan Wang, Hengran Zhang, Aixin Sun, Xuying Meng. <br>
 <b>Findings of EMNLP2022</b>, <i>(Full Paper)</i> <br>
 </li>
