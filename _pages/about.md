@@ -30,8 +30,8 @@ Specifically, my current research interests are in leveraging pre-trained langua
 - First-class academic scholarship， University of Chinese Academy of Sciences，2024 (中国科学院大学一等学业奖学金)   
 - Merit Student, University of Chinese Academy of Sciences，2023  (中国科学院大学三好学生)    
 - Excellent Graduation Thesis, Jilin University, 2022
-- 吉林大学2021年度自强自立大学生（仅10人）
-- 2021年度中国大学生自强之星奖学金    
+- 2021年度中国大学生自强之星奖学金
+- 吉林大学2021年度自强自立大学生（仅10人） 
 
 ### Services
 - Volunteer: SIGIR-AP 2023, CCIR 2023        
