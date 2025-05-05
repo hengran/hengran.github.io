@@ -27,13 +27,13 @@ Specifically, my current research interests are in leveraging pre-trained langua
 
 
 ### Achievements
-First-class academic scholarship， University of Chinese Academy of Sciences，2024 (中国科学院大学一等学业奖学金)   
-Merit Student, University of Chinese Academy of Sciences，2023  (中国科学院大学三好学生)    
-Excellent Graduation Thesis, Jilin University, 2022    
+- First-class academic scholarship， University of Chinese Academy of Sciences，2024 (中国科学院大学一等学业奖学金)   
+- Merit Student, University of Chinese Academy of Sciences，2023  (中国科学院大学三好学生)    
+- Excellent Graduation Thesis, Jilin University, 2022    
 
 ### Services
-Volunteer: SIGIR-AP 2023, CCIR 2023        
-Contact Person of Student Committee Member of CCIR: 2023-   
-Reviewer: WWW2025, ACL2025, SIGIR2025
+- Volunteer: SIGIR-AP 2023, CCIR 2023        
+- Contact Person of Student Committee Member of CCIR: 2023-   
+- Reviewer: WWW2025, ACL2025, SIGIR2025
 
 
