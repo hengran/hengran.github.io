@@ -25,4 +25,8 @@ Specifically, my current research interests are in leveraging pre-trained langua
 - [A curated list of awesome papers on retrieval-augmented generation](https://github.com/IR-LLM/Awesome-Information-Retrieval-in-the-Age-of-Large-Language-Model)
 - [A curated list of awesome papers on dense retrieval and ranking](https://github.com/hengran/dense-retrieval-paper)
 
+### Services
+Volunteer: SIGIR-AP 2023, CCIR 2023        
+Contact Person of Student Committee Member of CCIR: 2023-Now
+
 
