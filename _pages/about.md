@@ -25,8 +25,15 @@ Specifically, my current research interests are in leveraging pre-trained langua
 - [A curated list of awesome papers on retrieval-augmented generation](https://github.com/IR-LLM/Awesome-Information-Retrieval-in-the-Age-of-Large-Language-Model)
 - [A curated list of awesome papers on dense retrieval and ranking](https://github.com/hengran/dense-retrieval-paper)
 
+
+### Achievements
+First-class academic scholarship， University of Chinese Academy of Sciences，2024 (中国科学院大学一等学业奖学金)   
+Merit Student, University of Chinese Academy of Sciences，2023  (中国科学院大学三好学生)    
+Excellent Graduation Thesis, Jilin University, 2022    
+
 ### Services
 Volunteer: SIGIR-AP 2023, CCIR 2023        
-Contact Person of Student Committee Member of CCIR: 2023-Now
+Contact Person of Student Committee Member of CCIR: 2023-   
+Reviewer: WWW2024, ACL2025, SIGIR2025
 
 
