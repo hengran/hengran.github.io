@@ -5,6 +5,34 @@ permalink: /publications/
 author_profile: true
 ---
 
+### 2025
+<ol start="7" reversed="reversed">
+
+<li> <b>A Comparative Study of Specialized LLMs as Dense Retrievers</b><br>
+<ins><b>Hengran Zhang</b></ins>,  Keping Bi, Jiafeng Guo
+<br>
+<b>CCIR 25</b>
+</li>
+</ol>
+
+<ol start="6" reversed="reversed">
+
+<li> <b>Utility-Focused LLM Annotation for Retrieval and Retrieval-Augmented Generation</b> [<a href="https://arxiv.org/abs/2504.05220">PDF</a>][<a href="https://github.com/Trustworthy-Information-Access/utility-focused-annotation">Code</a>]<br>
+<ins><b>Hengran Zhang</b></ins>, Minghao Tang, Keping Bi, Jiafeng Guo, Shihao Liu, Daiting Shi, Dawei Yin, Xueqi Cheng
+<br>
+<b>Pre-print</b>
+</li>
+</ol>
+
+<ol start="5" reversed="reversed">
+
+<li> <b>Unleashing the Power of LLMs in Dense Retrieval with Query Likelihood Modeling</b> [<a href="https://arxiv.org/pdf/2504.05216">PDF</a>][<a href="https://github.com/Trustworthy-Information-Access/llm-ql">Code</a>]<br>
+<ins><b>Hengran Zhang</b></ins>, Keping Bi, Jiafeng Guo, Xiaojie Sun, Shihao Liu, Daiting Shi, Dawei Yin, Xueqi Cheng
+<br>
+<b>Pre-print</b>
+</li>
+</ol>
+
 ### 2024
 
 <ol start="4" reversed="reversed">
