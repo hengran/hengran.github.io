@@ -6,9 +6,17 @@ author_profile: true
 ---
 
 ### 2025
+<ol start="8" reversed="reversed">
+
+<li> <b>Distilling a Small Utility-Based Passage Selector to Enhance Retrieval-Augmented Generation</b>[<a href="https://arxiv.org/pdf/2507.19102?">PDF</a>][<a href="https://github.com/Trustworthy-Information-Access/UtilitySelection">Code</a>]<br>
+<ins><b>Hengran Zhang</b></ins>,  Keping Bi, Jiafeng Guo, Jiaming Zhang, Shuaiqiang Wang, Dawei Yin, Xueqi Cheng
+<br>
+</li>
+</ol>
+
 <ol start="7" reversed="reversed">
 
-<li> <b>A Comparative Study of Specialized LLMs as Dense Retrievers</b><br>
+<li> <b>A Comparative Study of Specialized LLMs as Dense Retrievers</b>[<a href="https://arxiv.org/pdf/2507.03958">PDF</a>][<a href="https://github.com/Trustworthy-Information-Access/A-Comparative-Study-of-Specialized-LLMs-as-Dense-Retrievers">Code</a>]<br>
 <ins><b>Hengran Zhang</b></ins>,  Keping Bi, Jiafeng Guo
 <br>
 <b>CCIR 25</b>
@@ -20,7 +28,6 @@ author_profile: true
 <li> <b>Utility-Focused LLM Annotation for Retrieval and Retrieval-Augmented Generation</b> [<a href="https://arxiv.org/abs/2504.05220">PDF</a>][<a href="https://github.com/Trustworthy-Information-Access/utility-focused-annotation">Code</a>]<br>
 <ins><b>Hengran Zhang</b></ins>, <ins><b>Minghao Tang</b></ins>, Keping Bi, Jiafeng Guo, Shihao Liu, Daiting Shi, Dawei Yin, Xueqi Cheng
 <br>
-<b>Pre-print</b>
 </li>
 </ol>
 
@@ -29,7 +36,6 @@ author_profile: true
 <li> <b>Unleashing the Power of LLMs in Dense Retrieval with Query Likelihood Modeling</b> [<a href="https://arxiv.org/pdf/2504.05216">PDF</a>][<a href="https://github.com/Trustworthy-Information-Access/llm-ql">Code</a>]<br>
 <ins><b>Hengran Zhang</b></ins>, Keping Bi, Jiafeng Guo, Xiaojie Sun, Shihao Liu, Daiting Shi, Dawei Yin, Xueqi Cheng
 <br>
-<b>Pre-print</b>
 </li>
 </ol>
 
@@ -40,7 +46,6 @@ author_profile: true
 <li> <b>Iterative Utility Judgment Framework via LLMs Inspired by Relevance in Philosophy</b> [<a href="https://arxiv.org/abs/2406.11290">PDF</a>][<a href="https://anonymous.4open.science/r/ITEM-B486/README.md">Code</a>]<br>
 <ins><b>Hengran Zhang</b></ins>,Keping Bi, Jiafeng Guo, Xueqi Cheng
 <br>
-<b>Pre-print</b>
 </li>
 </ol>
 
@@ -61,7 +66,7 @@ author_profile: true
 <li> <b>From relevance to utility: evidence retrieval with feedback for fact verification</b> [<a href="https://arxiv.org/pdf/2310.11675">PDF</a>][<a href="https://github.com/ict-bigdatalab/FER">Code</a>]<br>
 <ins><b>Hengran Zhang</b></ins>,Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Yixing Fan, Xueqi Cheng
 <br>
-<b> Findings of EMNLP 2023</b> <br>
+<b> EMNLP 2023</b> <br>
 </li>
 </ol>
 
@@ -72,7 +77,7 @@ author_profile: true
 
 <li> <b>Cort: A new baseline for comparative opinion classification by dual prompts</b> [<a href="https://aclanthology.org/2022.findings-emnlp.524.pdf">PDF</a>][<a href="https://github.com/cofe-ai/CORT">Code</a>]<br>
   Yequan Wang, <ins><b>Hengran Zhang</b></ins>, Aixin Sun, Xuying Meng. <br>
-<b>Findings of EMNLP2022</b><br>
+<b>EMNLP2022</b><br>
 </li>
 
 
