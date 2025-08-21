@@ -28,6 +28,7 @@ author_profile: true
 <li> <b>Utility-Focused LLM Annotation for Retrieval and Retrieval-Augmented Generation</b> [<a href="https://arxiv.org/abs/2504.05220">PDF</a>][<a href="https://github.com/Trustworthy-Information-Access/utility-focused-annotation">Code</a>]<br>
 <ins><b>Hengran Zhang</b></ins>, <ins><b>Minghao Tang</b></ins>, Keping Bi, Jiafeng Guo, Shihao Liu, Daiting Shi, Dawei Yin, Xueqi Cheng
 <br>
+<b>EMNLP 25</b>
 </li>
 </ol>
 
