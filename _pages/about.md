@@ -17,7 +17,7 @@ I have broad research interests in information retrieval and natural language pr
 Specifically, my current research interests are in leveraging pre-trained language models into IR, such as Pre-training for IR and Dense Retrieval. Here is my [CV](/files/XinyuMa_CV_en.pdf). -->
 <!-- including but not limited to **understanding the relevance in IR**, **pre-training for IR** and **dense retrieval**. -->
 
-[🎉 2025-08] Our paper "Utility-Focused LLM Annotation for Retrieval and Retrieval-Augmented Generation" has been accepted at #EMNLP25 for the main conference!
+[🎉 2025-08] Our paper "Utility-Focused LLM Annotation for Retrieval and Retrieval-Augmented Generation" has been accepted at EMNLP25 for the main conference!
 
 
 ### <span style="color:#2561a0">Highlight</span>
