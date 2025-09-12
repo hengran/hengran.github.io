@@ -11,7 +11,7 @@ author_profile: true
 <li> <b>Distilling a Small Utility-Based Passage Selector to Enhance Retrieval-Augmented Generation</b>[<a href="https://arxiv.org/pdf/2507.19102?">PDF</a>][<a href="https://github.com/Trustworthy-Information-Access/UtilitySelection">Code</a>]<br>
 <ins><b>Hengran Zhang</b></ins>,  Keping Bi, Jiafeng Guo, Jiaming Zhang, Shuaiqiang Wang, Dawei Yin, Xueqi Cheng
 <br>
-<b>SIGIR-AP</b>
+<b>SIGIR-AP25</b>
 </li>
 </ol>
 
