@@ -42,6 +42,6 @@ Specifically, my current research interests are in leveraging pre-trained langua
 ### Services
 - Volunteer: SIGIR-AP 2023, CCIR 2023        
 - Contact Person of Student Committee Member of CCIR: 2023-   
-- Reviewer: WWW2025, ACL2025, SIGIR2025, AACL25, EMNLP25
+- Reviewer: WWW2025, ACL2025, SIGIR2025, AACL25, EMNLP25 SIGIR-AP25
 
 
