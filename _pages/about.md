@@ -27,7 +27,7 @@ Specifically, my current research interests are in leveraging pre-trained langua
 
 
 ### <span style="color:#2561a0">Highlight</span>
-- [A curated list of analytical papers on LLMs](https://github.com/hengran/Investigating-LLMs)
+- [A curated list of analytical papers on utility-focused RAG](https://github.com/hengran/awesome-papers-on-Utility-focused-retrieval-augmented-generation/tree/main)
 - [A curated list of awesome papers on retrieval-augmented generation](https://github.com/IR-LLM/Awesome-Information-Retrieval-in-the-Age-of-Large-Language-Model)
 - [A curated list of awesome papers on dense retrieval and ranking](https://github.com/hengran/dense-retrieval-paper)
 
