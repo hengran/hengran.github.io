@@ -18,6 +18,7 @@ Specifically, my current research interests are in leveraging pre-trained langua
 <!-- including but not limited to **understanding the relevance in IR**, **pre-training for IR** and **dense retrieval**. -->
 
 ### <span style="color:#2561a0">NEWS</span>
+[🎉 2025-10] I received the “**National Scholarship for Doctoral Students**”(博士生国家奖学金)     
 [🎉 2025-09] Our paper "**Distilling a Small Utility-Based Passage Selector to Enhance Retrieval-Augmented Generation**"  has been accepted at SIGIR-AP25!   
 [🎉 2025-08] Our paper "**Utility-Focused LLM Annotation for Retrieval and Retrieval-Augmented Generation**" has been accepted at EMNLP25 for the main conference!    
 [🎉 2025-05] Our paper "**A Comparative Study of Specialized LLMs as Dense Retrievers**" has been accepted by CCIR25!    
