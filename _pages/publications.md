@@ -8,6 +8,15 @@ author_profile: true
 ### 2025
 <ol start="8" reversed="reversed">
 
+<li> <b>LLM-Specific Utility: A New Perspective for Retrieval-Augmented Generation</b>[<a href="https://arxiv.org/abs/2510.11358">PDF</a>][<a href="https://anonymous.4open.science/r/LLM_specific_utility-4260/README.md">Code</a>]<br>
+<ins><b>Hengran Zhang</b></ins>,  Keping Bi, Jiafeng Guo, Jiaming Zhang, Shuaiqiang Wang, Dawei Yin, Xueqi Cheng
+<br>
+<b>Under review</b>
+</li>
+</ol>
+
+<ol start="8" reversed="reversed">
+
 <li> <b>Distilling a Small Utility-Based Passage Selector to Enhance Retrieval-Augmented Generation</b>[<a href="https://arxiv.org/pdf/2507.19102?">PDF</a>][<a href="https://github.com/Trustworthy-Information-Access/UtilitySelection">Code</a>]<br>
 <ins><b>Hengran Zhang</b></ins>,  Keping Bi, Jiafeng Guo, Jiaming Zhang, Shuaiqiang Wang, Dawei Yin, Xueqi Cheng
 <br>
