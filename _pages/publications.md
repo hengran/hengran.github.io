@@ -4,14 +4,39 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+### 2026
+
+<ol start="12" reversed="reversed">
+<li> <b>Training Dense Retrievers with Multiple Positive Passages</b>[<a href="https://arxiv.org/abs/2602.12727">PDF</a>]<br>
+Benben Wang, Minghao Tang, <ins><b>Hengran Zhang</b></ins>, Jiafeng Guo, Keping Bi
+<br>
+</li>
+</ol>
+
+<ol start="11" reversed="reversed">
+<li> <b>Reconstructing Content via Collaborative Attention to Improve Multimodal Embedding Quality</b>[<a href="https://arxiv.org/abs/2603.01471">PDF</a>]<br>
+Jiahan Chen, Da Li, <ins><b>Hengran Zhang</b></ins>, Yinqiong Cai, Lixin Su, Jiafeng Guo, Daiting Shi, Dawei Yin, Keping Bi
+<br>
+</li>
+</ol>
+
+<ol start="10" reversed="reversed">
+<li> <b>Bagging-Based Model Merging for Robust General Text Embeddings</b>[<a href="https://arxiv.org/abs/2602.05787">PDF</a>][<a href="https://github.com/hengran/Bagging-Based-Model-Merging">Code</a>]<br>
+<ins><b>Hengran Zhang</b></ins>, Keping Bi, Jiafeng Guo, Jiaming Zhang, Wenbo Yang, Daiting Shi, Xueqi Cheng
+<br>
+</li>
+</ol>
+
+
+
+
 
 ### 2025
-<ol start="8" reversed="reversed">
+<ol start="9" reversed="reversed">
 
 <li> <b>LLM-Specific Utility: A New Perspective for Retrieval-Augmented Generation</b>[<a href="https://arxiv.org/abs/2510.11358">PDF</a>][<a href="https://anonymous.4open.science/r/LLM_specific_utility-4260/README.md">Code</a>]<br>
 <ins><b>Hengran Zhang</b></ins>,  Keping Bi, Jiafeng Guo, Jiaming Zhang, Shuaiqiang Wang, Dawei Yin, Xueqi Cheng
 <br>
-<b>Under review</b>
 </li>
 </ol>
 
