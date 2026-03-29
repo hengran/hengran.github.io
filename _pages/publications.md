@@ -7,6 +7,13 @@ author_profile: true
 ### 2026
 
 <ol start="12" reversed="reversed">
+<li> <b>AuthorityBench: Benchmarking LLM Authority Perception for Reliable Retrieval-Augmented Generation
+</b>[<a href="https://arxiv.org/abs/2603.25092">PDF</a>][<a href="https://github.com/Trustworthy-Information-Access/AuthorityBench">Code</a>]<br>
+Zhihui Yao, <ins><b>Hengran Zhang</b></ins>, Keping Bi 
+<br>
+</li>
+</ol>
+<ol start="12" reversed="reversed">
 <li> <b>Training Dense Retrievers with Multiple Positive Passages</b>[<a href="https://arxiv.org/abs/2602.12727">PDF</a>]<br>
 Benben Wang, Minghao Tang, <ins><b>Hengran Zhang</b></ins>, Jiafeng Guo, Keping Bi
 <br>
