@@ -89,6 +89,7 @@ Jiahan Chen, Da Li, <ins><b>Hengran Zhang</b></ins>, Yinqiong Cai, Lixin Su, Jia
 <li> <b>Iterative Utility Judgment Framework via LLMs Inspired by Relevance in Philosophy</b> [<a href="https://arxiv.org/abs/2406.11290">PDF</a>][<a href="https://anonymous.4open.science/r/ITEM-B486/README.md">Code</a>]<br>
 <ins><b>Hengran Zhang</b></ins>,Keping Bi, Jiafeng Guo, Xueqi Cheng
 <br>
+<b>ACL 2026</b>
 </li>
 </ol>
 
