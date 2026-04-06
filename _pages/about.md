@@ -19,7 +19,7 @@ Specifically, my current research interests are in leveraging pre-trained langua
 
 ### <span style="color:#2561a0">NEWS</span>
 [🎉 2026-04] Our paper "**Iterative utility judgment framework via llms inspired by relevance in philosophy**"  has been accepted at ACL2026 Findings!   
-[🎉 2026-04] Our papers "**Reconstructing Content via Collaborative Attention to Improve Multimodal Embedding Quality** and **Beyond Relevance: Utility-Centric Retrieval in the LLM Era**"  have been accepted at SIGIR2026!   
+[🎉 2026-04] Our paper "**Beyond Relevance: Utility-Centric Retrieval in the LLM Era**"  has been accepted at SIGIR2026!   
 [🎉 2026-04] Our paper "**Reconstructing Content via Collaborative Attention to Improve Multimodal Embedding Quality**"  has been accepted at SIGIR2026!   
 [🎉 2025-10] I received the “**National Scholarship for Doctoral Students**”(博士生国家奖学金)     
 [🎉 2025-09] Our paper "**Distilling a Small Utility-Based Passage Selector to Enhance Retrieval-Augmented Generation**"  has been accepted at SIGIR-AP25!   
