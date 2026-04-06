@@ -5,6 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 ### 2026
+<ol start="14" reversed="reversed">
+<li> <b>Beyond Relevance: Utility-Centric Retrieval in the LLM Era</b><br>
+<ins><b>Hengran Zhang</b></ins>, Minghao Tang, Keping Bi, Jiafeng Guo
+<br>
+<b>SIGIR2026</b>
+</li>
+</ol>
 
 <ol start="13" reversed="reversed">
 <li> <b>AuthorityBench: Benchmarking LLM Authority Perception for Reliable Retrieval-Augmented Generation
@@ -13,6 +20,7 @@ Zhihui Yao, <ins><b>Hengran Zhang</b></ins>, Keping Bi
 <br>
 </li>
 </ol>
+
 <ol start="12" reversed="reversed">
 <li> <b>Training Dense Retrievers with Multiple Positive Passages</b>[<a href="https://arxiv.org/abs/2602.12727">PDF</a>]<br>
 Benben Wang, Minghao Tang, <ins><b>Hengran Zhang</b></ins>, Jiafeng Guo, Keping Bi
@@ -24,6 +32,7 @@ Benben Wang, Minghao Tang, <ins><b>Hengran Zhang</b></ins>, Jiafeng Guo, Keping 
 <li> <b>Reconstructing Content via Collaborative Attention to Improve Multimodal Embedding Quality</b>[<a href="https://arxiv.org/abs/2603.01471">PDF</a>]<br>
 Jiahan Chen, Da Li, <ins><b>Hengran Zhang</b></ins>, Yinqiong Cai, Lixin Su, Jiafeng Guo, Daiting Shi, Dawei Yin, Keping Bi
 <br>
+<b>SIGIR2026</b>
 </li>
 </ol>
 
