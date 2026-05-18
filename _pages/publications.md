@@ -25,6 +25,7 @@ Zhihui Yao, <ins><b>Hengran Zhang</b></ins>, Keping Bi
 <li> <b>Training Dense Retrievers with Multiple Positive Passages</b>[<a href="https://arxiv.org/abs/2602.12727">PDF</a>]<br>
 Benben Wang, Minghao Tang, <ins><b>Hengran Zhang</b></ins>, Jiafeng Guo, Keping Bi
 <br>
+<b>KDD2026</b>
 </li>
 </ol>
 
