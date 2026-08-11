@@ -54,6 +54,7 @@ Jiahan Chen, Da Li, <ins><b>Hengran Zhang</b></ins>, Yinqiong Cai, Lixin Su, Jia
 <li> <b>LLM-Specific Utility: A New Perspective for Retrieval-Augmented Generation</b>[<a href="https://arxiv.org/abs/2510.11358">PDF</a>][<a href="https://anonymous.4open.science/r/LLM_specific_utility-4260/README.md">Code</a>]<br>
 <ins><b>Hengran Zhang</b></ins>,  Keping Bi, Jiafeng Guo, Jiaming Zhang, Shuaiqiang Wang, Dawei Yin, Xueqi Cheng
 <br>
+<b>CIKM2026</b>
 </li>
 </ol>
 
@@ -89,6 +90,7 @@ Jiahan Chen, Da Li, <ins><b>Hengran Zhang</b></ins>, Yinqiong Cai, Lixin Su, Jia
 <li> <b>Unleashing the Power of LLMs in Dense Retrieval with Query Likelihood Modeling</b> [<a href="https://arxiv.org/pdf/2504.05216">PDF</a>][<a href="https://github.com/Trustworthy-Information-Access/llm-ql">Code</a>]<br>
 <ins><b>Hengran Zhang</b></ins>, Keping Bi, Jiafeng Guo, Xiaojie Sun, Shihao Liu, Daiting Shi, Dawei Yin, Xueqi Cheng
 <br>
+<b>CIKM2026</b>
 </li>
 </ol>
 
