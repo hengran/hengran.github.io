@@ -18,6 +18,8 @@ Specifically, my current research interests are in leveraging pre-trained langua
 <!-- including but not limited to **understanding the relevance in IR**, **pre-training for IR** and **dense retrieval**. -->
 
 ### <span style="color:#2561a0">NEWS</span>
+[🎉 2026-08] Our paper "**LLM-Specific Utility: A New Perspective for Retrieval-Augmented Generation**"  has been accepted at CIKM2026!   
+[🎉 2026-08] Our paper "**Unleashing the Power of LLMs in Dense Retrieval with Query Likelihood Modeling**"  has been accepted at CIKM2026!     
 [🎉 2026-05] Our paper "**Training Dense Retrievers with Multiple Positive Passages**"  has been accepted at KDD2026!     
 [🎉 2026-04] Our paper "**Iterative utility judgment framework via llms inspired by relevance in philosophy**"  has been accepted at ACL2026 Findings!   
 [🎉 2026-04] Our paper "**Beyond Relevance: Utility-Centric Retrieval in the LLM Era**"  has been accepted at SIGIR2026!   
