@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a fourth-year PhD student in Computer Science at [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/), advised by Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/gjf/) and [Keping Bi](https://kepingbi.github.io/). 
+I am now a final-year PhD student in Computer Science at [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/), advised by Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/gjf/) and [Keping Bi](https://kepingbi.github.io/). 
 And I received the B.E. degree from Jilin University in 2022.
 I have broad research interests in information retrieval and natural language processing, especially in utility-focused RAG. 
 
